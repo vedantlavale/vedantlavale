@@ -16,19 +16,16 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="GNU/Linux" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 ---
 
 <h3>💻 Technical Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Lavale&show_icons=true&theme=radical" alt="Vedant's GitHub stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Lavale&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
-<h3>Languages I Used This Week</h3>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thmsgbrt&layout=compact&langs_count=8" />
-</p>
-
 ---
 
 <h3>✨ Linux Enthusiast</h3>
