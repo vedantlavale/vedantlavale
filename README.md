@@ -17,9 +17,12 @@
   <img alt="GNU/Linux" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 ---
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+### :fire: My Stats :
+[![trophy](https://github-profile-trophy.vercel.app/?username=vedantlavale&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantlavale)](https://git.io/streak-stats)
 ---
 
 <h3>💻 Technical Stats</h3>
