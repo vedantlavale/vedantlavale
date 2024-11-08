@@ -1,57 +1,55 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Vedant Lavale, a web developer from <b>Pune, India</b>, currently pursuing a Bachelor's degree in Computer Engineering at MMCOE.</p>
+<p>Welcome to my page! <br> I'm Vedant Lavale, a Computer Engineering student and versatile web developer from India, exploring backend development and AI/ML. Passionate about open-source, public relations, and coding for impact.</p>
 
 ---
 
-<h3>💻 Things I code with</h3>
+<h3>Things I code with</h3>
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="GNU/Linux" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-<h3>🚀 Projects</h3>
-<ul>
-  <li><b>MediCare</b> - City-Centralized Hospital and OPD Bed Booking System for Smart India Hackathon 2024</li>
-  <li><b>Weather App</b> - Provides real-time weather data using the Visual Crossing API</li>
-  <li><b>SkillSphere</b> - Educational learning portal with translation and text-to-voice features (SIH 2023)</li>
-  <li><b>Library Management System</b> - Led frontend design for a web-based system</li>
-</ul>
-
----
-
-<h3>📜 Certifications</h3>
-<ul>
-  <li><b>Postman API Fundamentals Student Expert</b> - Completed as part of GSSoC</li>
-  <li><b>C++</b> - 5-star rating on HackerRank</li>
-</ul>
-
----
-
-<h3>📈 GitHub Stats</h3>
+<h3>💻 Technical Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-Lavale&show_icons=true&theme=radical" alt="Vedant's GitHub stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Lavale&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</p>
+<h3>Languages I Used This Week</h3>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=VedantLavale&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedantLavale&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thmsgbrt&layout=compact&langs_count=8" />
 </p>
 
 ---
 
-<h3>🌐 Where to find me</h3>
+<h3>✨ Linux Enthusiast</h3>
 <p>
-  <a href="https://github.com/VedantLavale" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=GitHub&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/vedant-lavale" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img alt="Linux Penguin Badge" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Terminal Badge" src="https://img.shields.io/badge/Terminal-Love-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
+  <img alt="Zsh" src="https://img.shields.io/badge/Zsh-OhMyZsh-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="center">
+   <img src="https://github.com/Vedant-Lavale/GitHubAssets/blob/main/linux-terminal.gif" alt="Linux Terminal Animation" width="500"/>
 </p>
 
 ---
 
-<p align="center">This README file is updated periodically!<br/>Last refresh: [Today's Date]</p>
+<h3>📬 Where to find me</h3>
+<p>
+  <a href="https://github.com/Vedant-Lavale" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://linkedin.com/in/vedant-lavale" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
+<p align="center">Last refresh: Friday, 8 November</p>
