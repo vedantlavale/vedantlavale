@@ -7,7 +7,8 @@
 <p>
   <img alt="Linux Penguin Badge" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-20.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-41-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-24.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img alt="Terminal Badge" src="https://img.shields.io/badge/Terminal-Love-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
   <img alt="Zsh" src="https://img.shields.io/badge/Zsh-OhMyZsh-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
@@ -48,9 +49,10 @@
 <h3>📬 Where to find me</h3>
 <p>
   <a href="https://github.com/Vedant-Lavale" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://twitter.com/vedaannt20" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://x.com/vedaannt20" target="_blank">
+  <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" />
 </a>
+
 <a href="https://discord.com/users/vedaant20" target="_blank">
   <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
 </a>
