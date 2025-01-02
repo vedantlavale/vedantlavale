@@ -3,23 +3,18 @@
 <p>Welcome to my page! <br> I'm Vedant Lavale, a Computer Engineering student and versatile web developer from India, exploring backend development and AI/ML. Passionate about open-source, public relations, and coding for impact.</p>
 
 ---
-<h3>✨ Linux Enthusiast</h3>
+
+### ✨ Linux Enthusiast
 <p>
   <img alt="Linux Penguin Badge" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/Fedora-41-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-24.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Terminal Badge" src="https://img.shields.io/badge/Terminal-Love-000000?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
   <img alt="Zsh" src="https://img.shields.io/badge/Zsh-OhMyZsh-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
-<p align="center">
-   <img src="https://github.com/Vedant-Lavale/GitHubAssets/blob/main/linux-terminal.gif" alt="Linux Terminal Animation" width="500"/>
 </p>
 
 ---
 
-<h3>Things I code with</h3>
+### Things I code with
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -29,35 +24,20 @@
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="GNU/Linux" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
----
+
 ---
 
-### :fire: My Stats :
-[![trophy](https://github-profile-trophy.vercel.app/?username=vedantlavale&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+### :fire: My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantlavale)](https://git.io/streak-stats)
+
 ---
 
-<h3>💻 Technical Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vedantlavale&show_icons=true&theme=radical" alt="Vedant's GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantlavale&layout=compact&theme=radical" alt="Top Languages" width="400"/>
----
-
-<h3>📬 Where to find me</h3>
+### 📬 Where to find me
 <p>
   <a href="https://github.com/Vedant-Lavale" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
- <a href="https://x.com/vedaannt20" target="_blank">
-  <img alt="X (formerly Twitter)" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://discord.com/users/vedaant20" target="_blank">
-  <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
-
+  <a href="https://x.com/vedaannt20" target="_blank"><img alt="X (formerly Twitter)" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://discord.com/users/vedaant20" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <p align="center">Last refresh: Friday, 8 November</p>
