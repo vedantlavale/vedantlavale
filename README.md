@@ -30,16 +30,10 @@
 
 ### :fire: My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantlavale)](https://git.io/streak-stats)
+<br/>
 ![Visitor Count](https://komarev.com/ghpvc/?username=vedantlavale)
 
 
 ---
-
-### 📬 Where to find me
-<p>
-  <a href="https://github.com/Vedant-Lavale" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://x.com/vedaannt20" target="_blank"><img alt="X (formerly Twitter)" src="https://img.shields.io/badge/X-%2312100E.svg?&style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://discord.com/users/vedaant20" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
 
 <p align="center">Last refresh: Friday, 8 November</p>
