@@ -30,6 +30,8 @@
 
 ### :fire: My Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantlavale)](https://git.io/streak-stats)
+![Visitor Count](https://komarev.com/ghpvc/?username=vedantlavale)
+
 
 ---
 
