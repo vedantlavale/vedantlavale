@@ -1,39 +1,62 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+# 👋 Hi there, I'm Vedant
 
-<p>Welcome to my page! <br> I'm Vedant Lavale, a Computer Engineering student and versatile web developer from India, exploring backend development and AI/ML. Passionate about open-source, public relations, and coding for impact.</p>
-
----
-
-### ✨ Linux Enthusiast
-<p>
-  <img alt="Linux Penguin Badge" src="https://img.shields.io/badge/Linux-Powered-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Bash Scripting" src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-41-294172?style=for-the-badge&logo=fedora&logoColor=white" />
-  <img alt="Zsh" src="https://img.shields.io/badge/Zsh-OhMyZsh-1a1a1a?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
+## 🚀 Passionate Full-Stack Developer & Web3 Explorer
 
 ---
 
-### Things I code with
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-404d59?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-</p>
+### 🔎 About Me
+
+- 🔭 Currently working with **React.js**, **Next.js**, and exploring **Web3** ideas
+- 🌱 Learning **Docker**, **DevOps**, and expanding backend knowledge
+- 👯 Eager to collaborate on **open-source** and **blockchain** projects
+- 💬 Ask me about:
+  - Full-Stack Development
+  - Machine/Deep Learning
+  - Web3 & Blockchain
 
 ---
 
-### :fire: My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedantlavale)](https://git.io/streak-stats)
-<br/>
-![Visitor Count](https://komarev.com/ghpvc/?username=vedantlavale)
+## 📊 GitHub Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=vedantlavale&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
-<p align="center">Last refresh: Friday, 8 November</p>
+# 🛠️ Tech Stack
+
+### 📋 Languages  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)  
+
+### ⚙️ Backend & Databases  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)  
+![Hono](https://img.shields.io/badge/-Hono-333333?logo=cloudflare&logoColor=orange)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
+
+
+### 📚 Frameworks & Libraries  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)  
+
+### 🔧 Tools & Technologies  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+
+---
+
+## 📬 Connect With Me  
+[![Email](https://img.shields.io/badge/-vedantlavale@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:vedantlavale@gmail.com)
+
