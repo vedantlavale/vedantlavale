@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Vedant
 
-## 🚀 Passionate Full-Stack Developer & Web3 Explorer
+## 🚀 Passionate Full-Stack Developer
 
 ---
 
@@ -9,10 +9,7 @@
 - 🔭 Currently working with **React.js**, **Next.js**, and exploring **Web3** ideas
 - 🌱 Learning **Docker**, **DevOps**, and expanding backend knowledge
 - 👯 Eager to collaborate on **open-source** and **blockchain** projects
-- 💬 Ask me about:
-  - Full-Stack Development
-  - Machine/Deep Learning
-  - Web3 & Blockchain
+
 
 ---
 
@@ -28,7 +25,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
 
 ### 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
