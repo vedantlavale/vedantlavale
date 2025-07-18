@@ -81,7 +81,7 @@ I'm a **Full-Stack Developer** passionate about creating **innovative digital so
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vedantlavale&show_icons=true&theme=tokyonight" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedant&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vedantlavale&theme=tokyonight" width="450"/>
 </p>
 
 ---
