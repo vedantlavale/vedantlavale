@@ -19,9 +19,7 @@ I'm a **Full-Stack Developer** passionate about creating **innovative digital so
 
 **Portfolio & Contact**
 
-- 🌐 **[Portfolio](https://www.vedant.works)**
-- 💼 **[LinkedIn](https://linkedin.com/in/vedantlavale)**
-- 📧 **[Email](mailto:vedantlavale@gmail.com)**
+- 🌐 **[Portfolio](https://www.vedant.works)** |  💼 **[LinkedIn](https://linkedin.com/in/vedantlavale)** | 📧 **[Email](mailto:vedantlavale@gmail.com)**
 
 
 ---
