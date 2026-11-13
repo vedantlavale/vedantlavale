@@ -1,34 +1,5 @@
-# Hey, Vedant this side!
+I’m Vedant, an engineer based in India. I build products from scratch, 0 to 1, from frontend to a scalable backend, and I care whether the code is good after the demo too.
 
-Backend-focused full stack developer working on reliable, maintainable systems and developer tooling.
+Hiring or want to build something? Full-time and part-time both work. [Grab a slot](https://cal.com/vedantman/meet).
 
-I primarily work on backend services, APIs, and data-intensive systems, with a focus on clarity, performance, and long-term ownership.
-
----
-
-### What I Work On
-- Backend systems and API design
-- Data-intensive services and pipelines
-- Database modeling and performance optimization
-- Developer tooling and internal utilities
-
----
-
-### Tech Stack
-- **Languages**: TypeScript, JavaScript, Go, Python  
-- **Backend**: Node.js, Express, Hono, Next.js (plus the broader JavaScript ecosystem)  
-- **Databases**: PostgreSQL, Prisma, Knex.js, MongoDB, Supabase, TimescaleDB 
-- **Tools & Infrastructure**: Git, Bash/Zsh, Cloudflare Workers, Vercel  
-
----
-
-### Open Source
-- Contributor to open-source developer tooling and SDKs
-- Creator and maintainer of Shadnex, an open-source CLI for project scaffolding
-
----
-
-### Contact
-- Website: https://www.vedant.works  
-- LinkedIn: https://linkedin.com/in/vedantlavale  
-- Email: vedantlavale@gmail.com
+Want to know more? Check out [vedantworks.com](https://vedantworks.com).
